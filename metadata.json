@@ -1,0 +1,6 @@
+{
+  "name": "SOLUTION CENTER / N&B Modern Furnitures",
+  "description": "Custom furniture, carpentry, upholstery, and modern interior furniture showroom located at Hospital Roundabout, Bamenda, Cameroon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
